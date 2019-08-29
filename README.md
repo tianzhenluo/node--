@@ -10,4 +10,4 @@
 
 ### 鬼灭之刃
 
-![鬼灭之刃爬取](https://github.com/tianzhenluo/node-crawler/)
+![鬼灭之刃爬取](https://github.com/tianzhenluo/node-crawler/blob/master/example.png)
